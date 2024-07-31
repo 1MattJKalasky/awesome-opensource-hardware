@@ -994,6 +994,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
 
 ## Boards
 
+* [8Q](https://github.com/Spooky-Manufacturing/8Q)
+  *  General Purpose 8 Qubit Optical Quantum Computer 
 * [artix-dc-scm](https://github.com/antmicro/artix-dc-scm)
   * Antmicro OCP data center secure control module
 * [arty-mpw-tester](https://github.com/antmicro/arty-mpw-tester)
