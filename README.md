@@ -947,6 +947,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Open-source high-performance non-blocking cache
 * [openram](https://github.com/VLSIDA/OpenRAM)
   * Static random access memory (SRAM) compiler.
+* [qram](https://github.com/qsharp-community/qram)
+  * Library for Q# implementing various qRAM proposals  
 * [lake](https://github.com/StanfordAHA/lake)
   * Synthesizable memory generator
 
