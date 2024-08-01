@@ -485,6 +485,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
 * [gem5](https://github.com/gem5/gem5)
   * Modular simulator platform for computer-system architecture research
+* [MajoranaNanowires](https://github.com/Samdaz/MajoranaNanowires)
+ * Python package for numerical calculations on Majorana nanowires. 
 * [muchisim](https://github.com/PrincetonUniversity/muchisim)
   * Cycle-level simulator for PPA and cost analysis of distributed multi-chiplet tile-based manycore designs.
 * [ghdl](https://github.com/ghdl/ghdl) (R) :star:
