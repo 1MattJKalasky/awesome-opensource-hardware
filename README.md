@@ -345,6 +345,8 @@ A curated list of awesome open source hardware tools, generators, and reusable d
   * Board design framework
 * [pcbflow](https://github.com/michaelgale/pcbflow)
   * Python based Printed Circuit Board (PCB) layout and design package based on CuFlow
+* [Qiskit-Metal](https://github.com/qiskit-community/qiskit-metal)
+  * Open-source framework for engineers and scientists to design superconducting quantum devices 
 
 ## Digital Design
 * [digital](https://github.com/hneemann/Digital)
